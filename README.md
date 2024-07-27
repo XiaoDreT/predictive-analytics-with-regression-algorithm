@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning Terapan - Zaenal Alfian
+# Predictive Analytics Pada Car Evaluation Dataset
 
 ## Domain Proyek
 
@@ -176,9 +176,9 @@ Output:
 
 Pada tahap ini, proyek ini menerapkan 3 model development antara lain sebagai berikut:
 
-- **Model Development dengan Linear Regression :**      
-- **Model Development dengan Decision Tree :**
-- **Model Development dengan Random Forest :**
+- **Model Development dengan Linear Regression**      
+- **Model Development dengan Decision Tree**
+- **Model Development dengan Random Forest**
 
 #### **Tahapan dan Parameter Pada Setiap Algoritma**
 
