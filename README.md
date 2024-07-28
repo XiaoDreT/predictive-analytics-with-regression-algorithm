@@ -283,7 +283,7 @@ Mean Squared Error (MSE):
 
 MSE adalah metrik evaluasi yang umum digunakan untuk mengukur kesalahan prediksi model regresi. MSE dihitung dengan mengambil rata-rata kuadrat selisih antara nilai prediksi dan nilai aktual. Formula MSE adalah:
 
-![MSE](https://github.com/user-attachments/assets/ab613b11-4c14-4c21-b9eb-4fcf1edfc0ad)
+![MSE](https://github.com/user-attachments/assets/9e950e02-3753-4c42-abf6-b1d14a9670c8)
 
 Dimana:
 
@@ -313,7 +313,7 @@ Pengujian Model dengan Model Terbaik (Random Forest)
 
 
 Output: 
-![Output](https://github.com/user-attachments/assets/bf73bb56-c975-4d65-bcba-df46af95ed27)
+![Output](https://github.com/user-attachments/assets/20754314-38aa-425c-a131-78b675a17192)
 
 #### Kesimpulan
 *Dengan adanya perbandingan setiap algoritma model menggunakan MSE, ini dapat menjawab problem statements dan goals yang telah dijabarkan sebelumnya serta membuktikan bahwa solution statements yang diberikan berdampak pada perusahaan asuransi dalam menentukan premi asuransi secara lebih akurat dan efisien dimana perbandingan algoritma model menggunakan MSE ini menunjukkan bahwa model algoritma Predictive Analystics yang paling cocok untuk prediksi peringkat risiko mobil adalah **Random Forest**. Untuk itu, model terbaik ini dapat di implementasikan dengan mengintegrasikan model prediksi terbaik (Random Forest) dengan sistem data asuransi yang ada untuk memprediksi peringkat risiko mobil secara akurat.*
